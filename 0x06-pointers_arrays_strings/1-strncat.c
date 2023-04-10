@@ -2,12 +2,17 @@
 #include <stdio.h>
 
 /**
-  *_strncat - concentrates two strings
+  * _strncat - concentrates two strings
+  *
   *@src: The string appended to dest
+  *
   * an inputed number of bytes from src
+  *
   *@dest:The string to be appended
+  *
   *@n: Number of bytes fr0m src
-  *return: Pointer to existing string
+  *
+  *Return: Pointer to existing string
   */
 char *_strncat(char *dest, char *src, int n)
 {
