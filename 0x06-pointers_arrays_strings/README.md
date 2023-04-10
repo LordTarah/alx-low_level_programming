@@ -1,2 +1,2 @@
 My directory on more work with pointers and arrays.
- Destinations and dereferencing
+All the deestinations and dereferencing
